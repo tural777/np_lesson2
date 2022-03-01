@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_Udp_Server", "cs_Udp_Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_Udp_Client", "cs_Udp_Client\cs_Udp_Client.csproj", "{C321CECC-081E-41CC-A0AE-D64382172571}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_TcpListener", "cs_TcpListener\cs_TcpListener.csproj", "{E4469E34-800B-4268-B63B-3C62A460E0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_TcpClient", "cs_TcpClient\cs_TcpClient.csproj", "{2C7C5217-516B-4FCD-9B9D-7A069D8460B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C321CECC-081E-41CC-A0AE-D64382172571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C321CECC-081E-41CC-A0AE-D64382172571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C321CECC-081E-41CC-A0AE-D64382172571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4469E34-800B-4268-B63B-3C62A460E0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4469E34-800B-4268-B63B-3C62A460E0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4469E34-800B-4268-B63B-3C62A460E0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4469E34-800B-4268-B63B-3C62A460E0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7C5217-516B-4FCD-9B9D-7A069D8460B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7C5217-516B-4FCD-9B9D-7A069D8460B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7C5217-516B-4FCD-9B9D-7A069D8460B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7C5217-516B-4FCD-9B9D-7A069D8460B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
